@@ -22,6 +22,7 @@
 .history
 .ionide
 
+
 # Support for Project snippet scope
 .vscode/*.code-snippets
 
